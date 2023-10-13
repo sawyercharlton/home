@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Physics, Beijing University of Posts and Telecommunications, 2020
+* M.Eng. in Materials Science and Engineering, Beijing University of Posts and Telecommunications, 2023
+* M.S. in Computational Sciences, Laurentian University, 2025 (expected)
 
 Work experience
 ======
