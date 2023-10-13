@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yubo Huang / Site Title"
 title_separator          : "-"
 name                     : &name "Yubo Huang"
-description              : &description "AI Master's Student"
+description              : &description "A master's student focused on Artificial Intelligence"
 url                      : https://sawyercharlton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yubo Huang"
   avatar           : "profile.png"
-  bio              : "Master of AI"
+  bio              : "A master's student focused on Artificial Intelligence"
   location         : "Sudbury, Ontario, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -99,7 +99,7 @@ author:
   github           : "sawyercharlton"
   google_plus      : 
   keybase          :
-  instagram        : "https://www.instagram.com/sawyer.charlton/"
+  instagram        : #"https://www.instagram.com/sawyer.charlton/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
