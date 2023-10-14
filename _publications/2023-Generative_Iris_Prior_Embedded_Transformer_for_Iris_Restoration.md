@@ -1,7 +1,7 @@
 ---
 title: "Generative Iris Prior Embedded Transformer for Iris Restoration"
 collection: publications
-permalink: /publication/Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration
+permalink: /publication/2023-Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration
 excerpt: 'This proposes a generative iris prior embedded Transformer model (Gformer), aiming to improve iris recognition performance.'
 date: 2023
 venue: 'Brisbane, Austrilia'
