@@ -9,6 +9,7 @@ paperurl: 'http://sawyercharlton.github.io/home/files/Generative_Iris_Prior_Embe
 citation: 'Yubo Huang, Jia Wang, Peipei Li, Liuyu Xiang, Peigang Li, and Zhaofeng He. Generative Iris Prior Embedded Transformer for Iris Restoration. In ICME, 2023.'
 ---
 This proposes a generative iris prior embedded Transformer model (Gformer), aiming to improve iris recognition performance.
+
 [Download paper here](http://sawyercharlton.github.io/home/files/Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration.pdf)
 
 Recommended citation: Yubo Huang, Jia Wang, Peipei Li, Liuyu Xiang, Peigang Li, and Zhaofeng He. Generative Iris Prior Embedded Transformer for Iris Restoration. In ICME, 2023.
