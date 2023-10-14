@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yubo Huang            "
+title                    : "Yubo Huang / Site Title"
 title_separator          : "-"
 name                     : &name "Yubo Huang"
 description              : &description "A master's student focused on Artificial Intelligence"
