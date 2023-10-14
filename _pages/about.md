@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yubo Huang's Home"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
