@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yubo Huang / Site Title"
+title                    : "Yubo Huang "
 title_separator          : "-"
 name                     : &name "Yubo Huang"
-description              : &description "A master's student focused on Artificial Intelligence"
+description              : &description "Master's student focused on Artificial Intelligence"
 url                      : https://sawyercharlton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/yubo.hwong.5
   foursquare       :
   github           : "sawyercharlton"
   google_plus      : 
