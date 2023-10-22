@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a master’s student at Laurentian University. I am focused on artificial intelligence and looking for a Ph.D. position in Canada 2025.
 
-I received my M.Eng. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2023, advised by Prof. [Zhaofeng He](https://teacher.bupt.edu.cn/hezhaofeng/en/index.htm) Prof. [Peipei Li](https://scholar.google.com/citations?user=A0khpKYAAAAJ&hl=en), and Prof. [Liuyu Xiang](https://teacher.bupt.edu.cn/xiangliuyu/en/index.htm),
+I received my M.Eng. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2023, advised by Prof. [Zhaofeng He](https://teacher.bupt.edu.cn/hezhaofeng/en/index.htm), Prof. [Peipei Li](https://scholar.google.com/citations?user=A0khpKYAAAAJ&hl=en), and Prof. [Liuyu Xiang](https://teacher.bupt.edu.cn/xiangliuyu/en/index.htm),
 and my B.S. degree from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2020.  
 
 <br/>
