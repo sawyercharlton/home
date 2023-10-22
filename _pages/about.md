@@ -17,7 +17,7 @@ and my B.S. degree from [Beijing University of Posts and Telecommunications](htt
 
 Publications
 ======
-*[Generative Iris Prior Embedded Transformer for Iris Restoration](http://sawyercharlton.github.io/home/files/Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration.pdf)*
-**Yubo Huang**, Jia Wang, Peipei Li, Liuyu Xiang, Peigang Li, and Zhaofeng He
-The IEEE Conference on Multimedia and Expo (**ICME**), 2023 **(Oral)**
+*[Generative Iris Prior Embedded Transformer for Iris Restoration](http://sawyercharlton.github.io/home/files/Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration.pdf)*  
+**Yubo Huang**, Jia Wang, Peipei Li, Liuyu Xiang, Peigang Li, and Zhaofeng He  
+The IEEE Conference on Multimedia and Expo (**ICME**), 2023 **(Oral)**  
 \[[Paper](http://sawyercharlton.github.io/home/files/Generative_Iris_Prior_Embedded_Transformer_for_Iris_Restoration.pdf)\] \[[Code](https://github.com/sawyercharlton/Gformer)\]
